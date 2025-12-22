@@ -16,6 +16,6 @@ visible = true
 [layout]
 priority = 10  # Core system app - placed first on dashboard
 width = 2
-height = 2
+height = 1
 x_offset = 0
 y_offset = 0
